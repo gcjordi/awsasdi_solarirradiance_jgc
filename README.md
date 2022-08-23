@@ -14,4 +14,4 @@ NOTE: For the purposes of this project, it should be understood that this is sim
 
 Source: Royal Observatori of Belgium (inspired by NREL National Solar Radiation Database  ASDI: https://aws.amazon.com/marketplace/pp/prodview-wa3anotrw3rve?sr=0-1&ref_=beagle&applicationId=AWSMPContessa) 
 
-Link to the video of the project: 
+Link to the video of the project: https://youtu.be/IFgthPnCMW4
